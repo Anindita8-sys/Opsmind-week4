@@ -1,7 +1,6 @@
 {
   "name": "opsmind-backend",
   "version": "1.0.0",
-  "description": "OpsMind AI Backend",
   "type": "module",
   "main": "server.js",
   "scripts": {
